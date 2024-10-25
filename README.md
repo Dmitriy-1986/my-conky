@@ -1,5 +1,9 @@
 # my-conky
 
+Установка Conky
+```
+sudo apt install conky
+```
 Редактировать Conky
 ```
 sudo nano /etc/conky/conky.conf
