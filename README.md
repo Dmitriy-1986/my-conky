@@ -12,3 +12,7 @@ sudo nano /etc/conky/conky.conf
 ```
 chmod +x ~/start_conky.sh
 ```
+Узнать чтоза  интерфейс wlp4s0 для внутреннего ip адреса
+```
+ip link show
+```
